@@ -848,7 +848,7 @@ Before submitting:
 
 ---
 
-### Instructor answer summary
+### Answer Summary
 
 | Item | Answer |
 |---|---|
