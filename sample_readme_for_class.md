@@ -12,7 +12,9 @@ Write one or two sentences about you, and what's in this repository.
 
 Focus: Running cells in Colab, loading a dataset with pandas, and making a plot.
 
-<a href="https://colab.research.google.com/github/USERNAME/REPO/blob/main/week01_penguins_colab_quickstart.ipynb">Mining the Palmer Penguins Dataset</a>
+ <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/CIS3400_Week1_Colab_Quick_Start_Penguins_ML_Penguins_Solution_for_Class.ipynb"
+
+  Mining the Palmer Penguins Dataset</a>
 
 ### Week 2:
 
