@@ -5,8 +5,9 @@ Advanced Programming Class, Fall 2026, Catawba College
   <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/CIS3400_Week1_Colab_Quick_Start_Penguins_ML.ipynb">Open Notebook in Colab</a></li>
   <li>Week 2 Solution to Penguins Week 1 Exercise: Exploring and Mining the Penguins, Advanced Python for ML:<br>
  <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/CIS3400_Week1_Colab_Quick_Start_Penguins_ML_Penguins_Solution_for_Class.ipynb">Open Penguins Solution Notebook in Colab</a></li>
-    <li>Week 3 Intro to Functions and Exercise:<br>
- <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_monday_functions_lecture_for_class.ipynb">Open Intro to Functions Notebook in Colab</a><br><br>
-       <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_wednesday_pairs_functions_exercise.ipynb">Open Wednesday Pairs Exercise for Functions</a>
+    <li>Week 3 Intro to Functions and Exercises:<br>
+ <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_monday_functions_lecture_for_class.ipynb">1. Open Intro to Functions Notebook in Colab</a><br><br>
+       <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_monday_functions_lecture_for_class_solution.ipynb">2. Solution to Intro to Functions Notebook</a><br>
+       <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_wednesday_pairs_functions_exercise.ipynb">3. Open Wednesday Pairs Exercise for Functions</a>
     </li>
 </ul>
