@@ -11,5 +11,6 @@ Advanced Programming Class, Fall 2026, Catawba College
        <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/week3_wednesday_pairs_functions_exercise.ipynb">3. Open Wednesday Pairs Exercise for Functions</a>
     </li>
 <li>Week 7 Exploring Airlines Large Data: <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/CIS3400_Week7_Monday_Guided_EDA_BTS_June2026%20(2).ipynb"><br>Open Airlines In Class Exercise</a></li>
+  <li>Week 9: Python Useful Tips <a href="https://githubtocolab.com/plthomps/Fall_2026_Advanced_Programming/blob/main/files_time_and_merges.ipynb"><br>Open Files Time Examples and Merges In Class Exercise</a></li>
 </ul>
 
